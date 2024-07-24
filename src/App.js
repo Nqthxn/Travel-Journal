@@ -1,8 +1,11 @@
 import data from './data';
+import Header from './components/Header';
+
 
 export default function App(){
-    console.log(data);
     return(
-        <h1>Hello</h1>
+        <div>
+            <Header />
+        </div>
     );
 }

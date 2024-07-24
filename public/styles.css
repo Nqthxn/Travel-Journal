@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+.header-container{
+    display:flex;
+    background-color: rgb(243, 96, 96);
+    align-items: center;
+    justify-content: center;
+    height:80px;
+}
+.header-title{
+    color:white;
+    margin-left: 20px;
+}
