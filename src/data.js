@@ -43,7 +43,7 @@ export default [
             popular destination for walking, sightseeing,
          and experiencing the vibrant culture of the city.
         `,
-        imageUrl: "https://maps.app.goo.gl/7JtDydwcsJ7Dyrvj6"
+        imageUrl: "https://media.istockphoto.com/id/467985820/photo/shanghai-skyline.jpg?s=612x612&w=0&k=20&c=r4YA6jeUE1MWYb5N9XJ_Dxj_a96hb566KinT8YECgm0="
     }
 
 ];
