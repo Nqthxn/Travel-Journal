@@ -11,9 +11,9 @@ export default function Main(props){
                     <p className="location">
                         <img src={locationIcon} className="location-icon"/>
                         <span className="location-country">{props.location}</span>
-                        <span className="location-google"><a href={props.googleMapsUrl}>View on Google Maps</a></span>
+                        <a href={props.googleMapsUrl}><span className="location-google">View on Google Maps</span></a>
                     </p>
-                    <h1 className="location-name">{props.location}</h1>
+                    <h1 className="location-name">{props.title}</h1>
                 </div>
                 <div className="description-container">
                     <div className="date-container">

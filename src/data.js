@@ -2,7 +2,7 @@ export default [
     {
         id: 1,
         title: "Galaxy",
-        location: "Macau",
+        location: "MACAU",
         googleMapsUrl: "https://maps.app.goo.gl/DM3Whv9SM2CYKYic6",
         startDate: "03 May, 2024",
         endDate: "27 June, 2024",
@@ -18,7 +18,7 @@ export default [
     {
         id: 2,
         title: "Citygate Outlet",
-        location: "Hong Kong",
+        location: "HONG KONG",
         googleMapsUrl: "https://maps.app.goo.gl/6waut3fgV5JVuaV3A",
         startDate: "17 June, 2024",
         endDate: "21 June, 2024",
@@ -34,7 +34,7 @@ export default [
     {
         id: 3,
         title: "The Bund",
-        location: "Shanghai",
+        location: "SHANGHAI",
         googleMapsUrl: "https://maps.app.goo.gl/7JtDydwcsJ7Dyrvj6",
         startDate: "11 July, 2022",
         endDate: "16 July, 2022",

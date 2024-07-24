@@ -3,6 +3,9 @@
     margin:0;
     padding:0;
 }
+body{
+    font-size: Arial;
+}
 .header-container{
     display:flex;
     background-color: rgb(243, 96, 96);
@@ -23,4 +26,35 @@
 .info-container{
     display:flex;
     flex-direction: column;
+    width:500px;
+    margin-top: 17px;
+}
+.image-container{
+    margin-left:450px;
+    margin-top:17px;
+    margin-right: 50px;
+}
+.location-icon{
+    width:23px;
+    margin-right: 5px;
+}
+.location{
+    display:flex;
+    align-items: center;
+}
+.location-country{
+    font-size: 20px;
+    font-family: monospace;
+    margin-right: 12px;
+}
+.location-google{
+    color:grey;
+    text-decoration: none;
+    font-size: 13px;
+}
+.location-container, .location, .date-container{
+    margin-bottom: 10px;
+}
+.location-description{
+    line-height: 25px;
 }
